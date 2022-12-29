@@ -11,4 +11,7 @@ Pondremos texto normal
 #### Enlaces externos
 
 https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github
+
 https://docs.github.com/es/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme
+
+https://markdown.es/sintaxis-markdown/
